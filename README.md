@@ -4,4 +4,4 @@
 **Team member:**  [Henry Lin](https://github.com/Henrilin28), [Le Xu](https://github.com/lx565), [Cheng Hou](https://github.com/nnhoucheng), [Xin Tang](https://github.com/athenaxin), [Xiaomeng Dong](https://github.com/xd515), [Chenxi Cui](https://github.com/Cuiniuhua)
 
 ---
-## Topic: Tobacco Retailer Distrubution
+## Topic: Tobacco and Liquor Retailers Distrubution
